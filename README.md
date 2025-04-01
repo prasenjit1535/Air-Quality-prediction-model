@@ -19,3 +19,15 @@ The dataset used for this project contains real-world air quality measurements.
 It includes features such as temperature, humidity, wind speed, pollutant levels (PM2.5, NO2, CO, etc.).
 
 The dataset is split into training (80%) and testing (20%) sets.
+📌 Findings: The Decision Tree Regressor overfits the training data, leading to poor generalization. Ridge Regression provides a better balance between bias and variance.
+
+⚙️ Technologies Used
+Python 🐍
+
+Pandas for data preprocessing
+
+NumPy for numerical computations
+
+Matplotlib & Seaborn for data visualization
+
+Scikit-Learn for machine learning models
