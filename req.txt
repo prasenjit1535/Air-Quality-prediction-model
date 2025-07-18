@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
+seaborn
+scipy
+xgboost
+lightgbm
+opencv-python
+jupyter
+notebook
+scikit-learn
+joblib
